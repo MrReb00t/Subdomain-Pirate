@@ -6,4 +6,4 @@ This is a very simple bash script utilizing other tools made by different publis
 Usage: ./subPirate.sh <domain> (eg., targetsite.com)
   
 
-To get help on what you need to install and where then just call the script without arguments, Happy hacking! 
+To get help on what you need to install and where then just call the script without arguments, hope you found my methodology useful and Happy hacking! 
